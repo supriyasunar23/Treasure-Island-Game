@@ -1,29 +1,24 @@
-#H1 **Treasure Island Game**
+**Treasure Island Game**
 A text-based adventure game built in Python where players make choices to navigate through an island in search of treasure. Your decisions determine whether you find the treasure or meet an untimely end!
 
-How to Play
-Run the Python script to start the game
+**How to Play?**
+1. Run the Python script to start the game.
 
-Read the scenario descriptions carefully
+2. Read the scenario descriptions carefully.
 
-Make choices by typing your selection when prompted
+3. Make choices by typing your selection when prompted.
 
-Try to reach the treasure without meeting any unfortunate endings!
+4. Try to reach the treasure without meeting any unfortunate endings!
 
-Play multiple times to discover all possible outcomes
+5. Play multiple times to discover all possible outcomes.
 
-Game Features
-Multiple decision points with different outcomes
+6. Good Luck!
 
-Engaging storyline with unexpected twists
+**Game Features**
+- Multiple decision points with different outcomes
 
-Various endings to discover
+- Engaging storyline with unexpected twists
 
-Simple text-based interface
+- Various endings to discover
 
-Installation
-Ensure you have Python 3.x installed on your system
-
-Download or clone this repository
-
-Navigate to the project directory
+- Simple text-based interface
